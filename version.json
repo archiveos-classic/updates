@@ -1,1 +1,5 @@
-{"version": "1.0.0 stable"}
+{
+  "version": "1.0.1",
+  "changelog_tr": "- Wine kurulum hızı optimize edildi.\n- Arayüzdeki yazı tipleri güncellendi.\n- Hatalar giderildi.",
+  "changelog_en": "- Optimized Wine installation speed.\n- Updated interface fonts.\n- General bug fixes."
+}
